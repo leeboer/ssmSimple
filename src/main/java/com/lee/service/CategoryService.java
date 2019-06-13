@@ -1,6 +1,7 @@
 package com.lee.service;
 
 import com.lee.pojo.Category;
+import com.lee.util.Page;
 
 import java.util.List;
 
@@ -9,4 +10,8 @@ import java.util.List;
  */
 public interface CategoryService {
     public List<Category> list();
+
+    public int total();
+
+    public List<Category> list(Page page);
 }

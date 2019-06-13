@@ -1,6 +1,7 @@
 package com.lee.mapper;
 
 import com.lee.pojo.Category;
+import com.lee.util.Page;
 
 import java.util.List;
 
@@ -19,5 +20,7 @@ public interface CategoryMapper {
 
     public List<Category> listCategory();
 
-    public int count();
+    public List<Category> list(Page page);
+
+    public int total();
 }
