@@ -23,4 +23,5 @@ public interface CategoryMapper {
     public List<Category> list(Page page);
 
     public int total();
+
 }

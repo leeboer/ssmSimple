@@ -18,9 +18,12 @@ public class test {
 //        System.out.println(categoryMapper.listCategory());
         System.out.println(ac);
         CategoryService categoryService = ac.getBean("csim",CategoryService.class);
+
         List<Category> list = categoryService.list();
         for(Category c : list){
             System.out.println(c.getName());
         }
+//        Category category = categoryService.get(1);
+//        System.out.println(category);;
     }
 }
