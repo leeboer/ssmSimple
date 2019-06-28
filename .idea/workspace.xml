@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f6e9aae-e61a-480a-b0c1-6215d4840696" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_36.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lee/test/MybatisTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editCategory.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/getMany.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/getOne.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/submit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lee/controller/CategoryController.class" afterPath="$PROJECT_DIR$/target/classes/com/lee/controller/CategoryController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lee/service/CategoryService.class" afterPath="$PROJECT_DIR$/target/classes/com/lee/service/CategoryService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lee/service/impl/CategoryServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/lee/service/impl/CategoryServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple.war" afterPath="$PROJECT_DIR$/target/ssmSimple.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/controller/CategoryController.class" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/controller/CategoryController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/service/CategoryService.class" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/service/CategoryService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/service/impl/CategoryServiceImpl.class" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/service/impl/CategoryServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/test.class" afterPath="$PROJECT_DIR$/target/test-classes/test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ssmSimple_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ssmSimple_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lee/controller/CategoryController.java" afterPath="$PROJECT_DIR$/src/main/java/com/lee/controller/CategoryController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lee/mapper/Category.xml" afterPath="$PROJECT_DIR$/src/main/java/com/lee/mapper/Category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lee/mapper/CategoryMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/lee/mapper/CategoryMapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lee/service/CategoryService.java" afterPath="$PROJECT_DIR$/src/main/java/com/lee/service/CategoryService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lee/service/impl/CategoryServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/lee/service/impl/CategoryServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resource/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resource/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resource/springMVC.xml" afterPath="$PROJECT_DIR$/src/main/resource/springMVC.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/listCategory.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/listCategory.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/test.java" afterPath="$PROJECT_DIR$/src/test/test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ssmSimple.iml" afterPath="$PROJECT_DIR$/ssmSimple.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lee/mapper/Category.xml" afterPath="$PROJECT_DIR$/target/classes/com/lee/mapper/Category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/springMVC.xml" afterPath="$PROJECT_DIR$/target/classes/springMVC.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/mapper/Category.xml" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/com/lee/mapper/Category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/springMVC.xml" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/classes/springMVC.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/jsp/listCategory.jsp" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/jsp/listCategory.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/ssmSimple/WEB-INF/web.xml" />
-    </list>
+    <list default="true" id="5f6e9aae-e61a-480a-b0c1-6215d4840696" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1266,7 +1228,7 @@
       <workItem from="1560394340430" duration="8473000" />
       <workItem from="1560490875071" duration="188000" />
       <workItem from="1560494019889" duration="138000" />
-      <workItem from="1561528847565" duration="15758000" />
+      <workItem from="1561528847565" duration="16190000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1559292286101</created>
@@ -1311,7 +1273,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42865000" />
+    <option name="totallyTimeSpent" value="43297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1323,7 +1285,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="1" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1345,7 +1307,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.041340783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.041340783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326257" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1752,7 +1714,7 @@
         <state relative-caret-position="304">
           <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
